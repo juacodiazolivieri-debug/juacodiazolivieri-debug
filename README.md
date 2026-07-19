@@ -26,6 +26,8 @@ My mission is to create real-world impact by connecting people. Through my work,
 *   **[Factor-a-Innovacion-Labs](https://github.com/juacodiazolivieri-debug/Factor-a-Innovacion-Labs):** The core hub for technical development and prototype incubation within the ecosystem.
 *   **[JOOLDI-APP](https://github.com/juacodiazolivieri-debug/JOOLDI-APP):** The official management and loyalty platform for the JOOLDI ecosystem services.
 *   **[Urban-charge-hub](https://github.com/juacodiazolivieri-debug/Urban-charge-hub):** Electric mobility service centers converting urban infrastructure for sustainable transport.
+- **[JOOLDI-Smart-Urban-Locker](https://github.com/juacodiazolivieri-debug/JOOLDI-Smart-Urban-Locker)**: High-density modular infrastructure for secure urban micromobility storage. 🚲
+
 
 ---
 *Connecting talent, building projects, empowering the doers.* 🌍
