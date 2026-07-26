@@ -14,7 +14,7 @@ My mission is to create real-world impact by connecting people. Through my work,
 *   **Apr 2026:** Proposal submission to the 2026 Cycle of the Participatory Budgeting Program at the Intendencia de Montevideo.
 *   **Jun 2026:** Institutional submission and technical inquiry for incubation support at the Universidad de la Empresa (UDE), Uruguay.
 *   **Jun 2026:** Submission of JOOLDI to the Labor Opportunities Fund managed by the Intendencia de Montevideo.
-*   **Jun 2026:** Official selection for the **Premios Verdes** ranking (Top 500 socio-environmental projects in Latin America and the Caribbean for *Neon Flash Hub*).
+*   **Jun 2026:**  **Premios Verdes** ranking (Top 500 socio-environmental projects in Latin America and the Caribbean for *Neon Flash Hub*).
 *   **Jul 2026:** Selected proposal out of over 300 entries for the training stage of the **Innova-Acción** contest at Centro ITHAKA, Catholic University of Uruguay.
 
 ---
