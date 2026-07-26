@@ -28,6 +28,11 @@ My mission is to create real-world impact by connecting people. Through my work,
 *   **[Urban-charge-hub](https://github.com/juacodiazolivieri-debug/Urban-charge-hub):** Electric mobility service centers converting urban infrastructure for sustainable transport.
 - **[JOOLDI-Smart-Urban-Locker](https://github.com/juacodiazolivieri-debug/JOOLDI-Smart-Urban-Locker)**: High-density modular infrastructure for secure urban micromobility storage. 🚲
 
+---
+
+*Connecting talent, building projects, empowering the doers.* 🌍
 
 ---
-*Connecting talent, building projects, empowering the doers.* 🌍
+
+## License 📄
+Copyright (c) 2026 Joaquín Olivieri Díaz. All rights reserved.
