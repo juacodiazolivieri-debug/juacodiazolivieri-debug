@@ -20,7 +20,7 @@ My mission is to create real-world impact by connecting people. Through my work,
 ---
 
 ## 🏗 My Projects
-*   **[Neon-flash-hub](https://github.com/juacodiazolivieri-debug/Neon-flash-hub):** Sustainable urban infrastructure: kinetic energy-generating tiles and smart charging hubs.
+*   **[Neon-flash-hub](https://github.com/juacodiazolivieri-debug/Neon-flash-hub):** Sustainable urban infrastructure and smart charging hubs.
 *   **[Coworkinder](https://github.com/juacodiazolivieri-debug/Coworkinder):** An independent social platform to connect creators and find the perfect co-founder.
 *   **[Cinema-labs](https://github.com/juacodiazolivieri-debug/Cinema-labs):** Interactive event solutions, AI-powered projections, and immersive experiences.
 *   **[Factor-a-Innovacion-Labs](https://github.com/juacodiazolivieri-debug/Factor-a-Innovacion-Labs):** The core hub for technical development and prototype incubation within the ecosystem.
