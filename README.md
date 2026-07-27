@@ -36,3 +36,5 @@ My mission is to create real-world impact by connecting people. Through my work,
 
 ## License 📄
 Copyright (c) 2026 Joaquín Olivieri Díaz. All rights reserved.
+
+[![Contador de visitas](https://komarev.com/ghpvc/?username=juacodiazolivieri-debug&color=blue&style=flat-square)](https://github.com/juacodiazolivieri-debug/juacodiazolivieri-debug)
