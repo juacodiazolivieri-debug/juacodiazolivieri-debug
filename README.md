@@ -24,7 +24,7 @@ Technical Foundation: Practical education from UTU combined with continuous, sel
 *   **Jun 2026:**  **Premios Verdes** socio-environmental projects in Latin America and the Caribbean for *Neon Flash Hub*).
 *   **Jul 2026:** Selected proposal out of over 300 entries for the training stage of the **Innova-Acción** contest at Centro ITHAKA, Catholic University of Uruguay.
 
-*   **July 2026 - Institutional * **July 2026 - Institutional Presentations & Validation:** Successfully presented and pitched the ecosystem and urban charging solutions to key national and social institutions in Uruguay, including:
+*   **July 2026 - Institutional  - Institutional Presentations & Validation:** Successfully presented and pitched the ecosystem and urban charging solutions to key national and social institutions in Uruguay, including:
   * **Ministry of Environment (Ministerio de Ambiente):** Aligning urban mobility and infrastructure with sustainability, circular economy, and climate resilience goals.
   * **CENATT (Centro Nacional de Apoyos Técnicos y Tecnológicos / MIDES):** Presenting technological integration, assistive technology applications, and accessibility solutions.
   * **Teletón Uruguay:** Showcasing universal accessibility, assistive technologies, and inclusive urban design.
