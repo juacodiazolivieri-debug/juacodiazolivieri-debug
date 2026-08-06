@@ -9,7 +9,7 @@ My mission is to create real-world impact by connecting people. Through my work,
 
 ---
 
-​🛠️ Background & Expertise
+## ​🛠️ Background & Expertise
 ​Field Operations & Technical Logistics: Years of hands-on experience in technical supervision and hardware maintenance for complex automated systems (such as ATMs and urban infrastructure), ensuring physical reliability and operational efficiency.
 ​Technical Foundation: Practical education from UTU combined with continuous, self-driven upskilling in system integration, hardware-software coordination, and sustainable urban solutions.
 ​Hands-on Builder: Focused on merging standard, market-proven components into smart, scalable, and circular urban ecosystems.
