@@ -30,6 +30,8 @@ Technical Foundation: Practical education from UTU combined with continuous, sel
   * **Teletón Uruguay:** Showcasing universal accessibility, assistive technologies, and inclusive urban design.
   * **Fundación Braille del Uruguay:** Collaborating and presenting solutions focused on digital and physical accessibility for visually impaired individuals.
 * **July 2026 - Independent Innovation Growth:** Advancing modular urban hardware integration and AI-driven community frameworks as an independent entrepreneur and builder.
+* * **Jul 2026:** Official application and submission to the **GLFx Chapter Network (Global Landscapes Forum)** to establish a local chapter, scaling community-led urban sustainability and green infrastructure initiatives.
+
 
 ---
 
