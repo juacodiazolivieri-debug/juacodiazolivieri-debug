@@ -65,8 +65,9 @@ Technical Foundation: Practical education from UTU combined with continuous, sel
 * **Desarrollo y Fabricación:** JOOLDI
 * **Contacto Comercial y Técnico:** 
 ---jooldi.uy@gmail.com 
+* **Sitio Web Oficial:** [JOOLDI en Almenara Mall](https://sites.google.com/view/jooldi-uy/almenara-mall)
+* **Portfolio Técnico en Devpost:** [juaco-diazolivieri](https://devpost.com/juaco-diazolivieri)
 
-[https://sites.google.com/view/jooldi-uy/almenara-mall](https://sites.google.com/view/jooldi-uy/almenara-mall)
 
 ## 🏗 My Projects
 *   **[Neon-flash-hub](https://github.com/juacodiazolivieri-debug/Neon-flash-hub):** Sustainable urban infrastructure and smart charging hubs.
