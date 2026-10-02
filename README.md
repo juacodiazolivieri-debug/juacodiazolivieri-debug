@@ -66,6 +66,7 @@ Technical Foundation: Practical education from UTU combined with continuous, sel
 * **Contacto Comercial y Técnico:** 
 ---jooldi.uy@gmail.com 
 
+[https://sites.google.com/view/jooldi-uy/almenara-mall](https://sites.google.com/view/jooldi-uy/almenara-mall)
 
 ## 🏗 My Projects
 *   **[Neon-flash-hub](https://github.com/juacodiazolivieri-debug/Neon-flash-hub):** Sustainable urban infrastructure and smart charging hubs.
