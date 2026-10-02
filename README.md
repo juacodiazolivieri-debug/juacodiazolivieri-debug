@@ -32,8 +32,40 @@ Technical Foundation: Practical education from UTU combined with continuous, sel
 * **July 2026 - Independent Innovation Growth:** Advancing modular urban hardware integration and AI-driven community frameworks as an independent entrepreneur and builder.
 * * **Jul 2026:** Official application and submission to the **GLFx Chapter Network (Global Landscapes Forum)** to establish a local chapter, scaling community-led urban sustainability and green infrastructure initiatives.
 
+## Presentación Oficial: Primer Dispositivo Inteligente de Micromovilidad y Accesibilidad Universal en el Mundo
+**JOOLDI** presenta de forma operativa la primera estación integral diseñada para resolver de manera simultánea la infraestructura de carga asistida, resguardo físico y accesibilidad universal en entornos urbanos y comerciales.
+---
+### Detalles del Evento
+* **Evento:** Feria Vive Sustentable
+* **Ubicación:** Almenara Mall (Corredor comercial central)
+* **Dirección:** Ruta Interbalnearia Km 22.500, Canelones, Uruguay
+* **Fechas:** 10 y 11 de Octubre de 2026
+* **Modalidad:** Demostración operativa en vivo y pruebas de conexión de hardware
+---
+### Características Técnicas del Dispositivo
+* **Accesibilidad Universal Integrada:** Toma de energía normalizada a altura reglamentaria para recarga asistida de sillas de ruedas motorizadas.
+* **Resguardo Seguro de Micromovilidad:** Compartimentos modulares con cerradura para custodia física de monopatines eléctricos, bicicletas y baterías portátiles.
+* **Gestión Eléctrica Normalizada:** PDU (Power Distribution Unit) con protecciones térmicas individuales para garantizar suministro continuo y seguro a 220V.
+* **Interfaz Digital de Comunicación:** Pantalla multimedia frontal orientada a interacción de usuarios, métricas de servicio y difusión de contenidos.
+---
+### Cobertura de Servicios en Sitio
+
+| Función | Especificación Técnica | Vehículos / Dispositivos Compatibles |
+| :--- | :--- | :--- |
+| **Carga Inclusiva** | Salida 220V ergonómica accesible | Sillas de ruedas eléctricas y dispositivos de asistencia |
+| **Custodia Segura** | Box modular con cerradura de seguridad | Monopatines eléctricos y bicicletas plegables |
+| **Poder Auxiliar** | Tomas de servicio con corte térmico | Cargadores personales y equipamiento urbano |
 
 ---
+
+### Ubicación y Enlaces de Referencia
+
+* **Sede Oficial del Evento:** [Almenara Mall](https://almenaramall.com.uy/)
+* **Dirección:** Ruta Interbalnearia Km 22.500, Canelones, Uruguay
+* **Desarrollo y Fabricación:** JOOLDI
+* **Contacto Comercial y Técnico:** 
+---jooldi.uy@gmail.com 
+
 
 ## 🏗 My Projects
 *   **[Neon-flash-hub](https://github.com/juacodiazolivieri-debug/Neon-flash-hub):** Sustainable urban infrastructure and smart charging hubs.
